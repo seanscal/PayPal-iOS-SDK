@@ -9,6 +9,7 @@
 
 //  All-in-one import for the PayPal Mobile SDK
 
+#import "CardIO.h"
 #import "PayPalConfiguration.h"
 #import "PayPalFuturePaymentViewController.h"
 #import "PayPalOAuthScopes.h"
