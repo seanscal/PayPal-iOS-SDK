@@ -15,6 +15,7 @@ FOUNDATION_EXPORT const unsigned char PayPalMobileSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PayPalMobileSDK/PublicHeader.h>
 
+#import "CardIO.h"
 #import <PayPalMobileSDK/PayPalPayment.h>
 #import <PayPalMobileSDK/PayPalPaymentViewController.h>
 #import <PayPalMobileSDK/PayPalProfileSharingViewController.h>
